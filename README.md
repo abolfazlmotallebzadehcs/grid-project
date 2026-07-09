@@ -16,10 +16,31 @@ A modern, fully responsive Food Ordering Landing Page designed with a McDonald's
 
 ## 📁 Project Structure
 
-```text
 grid-project/
 ├── css/             # Stylesheets (style.css, media.css)
 ├── fonts/           # Poppins font family assets
 ├── img/             # Project images and icons
 ├── index.html       # Main landing page structure
 └── README.md        # Project documentation
+
+## 🎨 Key Features
+
+* **Responsive Navigation:** Includes a sidebar menu that activates on smaller screens using checkbox hacks for state management.
+* **Dynamic Sections:**
+* **Hero Section:** High-impact call-to-action layout.
+* **Menu Section:** Grid-based product display with discount badges.
+* **Sale/Offer Section:** Interactive cards with hover-state transformations.
+* **App Promo:** Sleek promotional section for mobile application downloads.
+* **Store Locator:** Search-focused section for store discovery.
+
+
+* **Modern Aesthetics:** Focus on typography, spacing, and balanced layout proportions.
+
+## 💡 How to Run
+
+1. Clone this repository: `git clone https://github.com/abolfazlmotallebzadehcs/grid-project.git`
+2. Open `index.html` in your preferred web browser.
+
+## 📝 License
+
+This project is open-source and available for educational purposes.
