@@ -15,14 +15,14 @@ A modern, fully responsive Food Ordering Landing Page designed with a McDonald's
 *   **Interactive Elements:** CSS-only hamburger menu for mobile navigation and hover-effect enhancements on product cards.
 
 ## 📁 Project Structure
-
+```text
 grid-project/
 ├── css/             # Stylesheets (style.css, media.css)
 ├── fonts/           # Poppins font family assets
 ├── img/             # Project images and icons
 ├── index.html       # Main landing page structure
 └── README.md        # Project documentation
-
+```
 ## 🎨 Key Features
 
 * **Responsive Navigation:** Includes a sidebar menu that activates on smaller screens using checkbox hacks for state management.
